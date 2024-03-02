@@ -60,7 +60,7 @@
             <nav id="navbar" class="navbar">
                 <ul>
                     <li><a class="nav-link scrollto active" href="">Committees & Topics</a></li>
-                    <li><a class="nav-link scrollto" href="">Tentative Schedule</a></li>
+                    <li><a class="nav-link scrollto" href="schedule.php">Tentative Schedule</a></li>
                     <li><a class="nav-link scrollto" href="">Fees & Timeline</a></li>
                     <li><a class="nav-link scrollto" href="">Register Here</a></li>
                 </ul>

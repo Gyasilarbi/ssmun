@@ -201,7 +201,7 @@
             <nav id="navbar" class="navbar">
                 <ul>
                     <li><a class="nav-link scrollto" href="topic.php">Committees & Topics</a></li>
-                    <li><a class="nav-link scrollto" href="">Tentative Schedule</a></li>
+                    <li><a class="nav-link scrollto" href="schedule.php">Tentative Schedule</a></li>
                     <li><a class="nav-link scrollto" href="">Fees & Timeline</a></li>
                     <li><a class="nav-link scrollto" href="">Register Here</a></li>
                 </ul>
@@ -399,7 +399,7 @@
                 <div class="row">
 
                     <div class="col-lg-3 col-md-6 footer-info">
-                        <a href="index.php"><img src="Images/logo.png" alt="" class="img-fluid"></a>
+                        <a href="index.php"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>
                     </div>
 
                     <div class="col-lg-3 col-md-6 footer-info">
