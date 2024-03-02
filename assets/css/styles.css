@@ -1355,4 +1355,14 @@ section {
   color: #fff;
 }
 
+.background-section {
+  background-image: url('assets/img/40.jpg');
+  background-size: cover;
+  height: 350px;
+  background-position: center;
+  color: white;
+  padding: 50px;
+  text-align: center;
+}
+
 

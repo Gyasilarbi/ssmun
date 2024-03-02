@@ -9,7 +9,6 @@
     <meta content="" name="description">
     <meta content="" name="keywords">
 
-
     <!-- Favicons -->
     <link href="assets/img/logo.png" rel="icon">
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
@@ -27,6 +26,10 @@
 
     <!-- Template Main CSS File -->
     <link href="assets/css/styles.css" rel="stylesheet">
+
+    <style>
+        
+    </style>
 </head>
 
 <body>
@@ -50,7 +53,12 @@
         </div>
     </header><!-- End Header -->
 
-    <main id="main">
-        <div class="container-fluid"></div>
+    <main>
+        <section class="background-section">
+            <div class="container">
+                <h1 style="color:#000033;">Committees & Topics</h1>
+                <h6 style="color:#000033;">Here you will find committees and topics for GCMUN 2023. <br> 2024 Committees and Topics to be released soon.</h6>
+            </div>
+        </section>
     </main>
 </body>
