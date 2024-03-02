@@ -67,7 +67,8 @@
                     <div class="carousel-item active" style="background-image: url(assets/img/7.png);">
                         <div class="carousel-container">
                             <div class="carousel-content">
-                                <h2 class="animate__animated animate__fadeInDown">Spring Middle School Model United</h2>
+                                <h1 class="animate__animated animate__fadeInDown">Spring Middle School</h1>
+                                <h4 class="animate__animated animate__fadeInDown">MODEL UNITED NATIONS</h4>
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-sm-4">
@@ -80,7 +81,7 @@
                                         </div>
                                         <div class="col-sm-4">
                                             <h1 class="bi bi-people-fill" style="color: white;"></h1>
-                                            <h5 style="color: white;">Student Delegates Only</h5>
+                                            <h5 style="color: white;">School Delegates Only</h5>
                                         </div>
                                     </div>
 
@@ -93,8 +94,9 @@
                     <!-- Slide 2 -->
                     <div class="carousel-item" style="background-image: url(assets/img/9.webp);">
                         <div class="carousel-container">
-                            <div class="carousel-content">
-                                <h2 class="animate__animated animate__fadeInDown">Spring Middle School Model United</h2>
+                        <div class="carousel-content">
+                                <h1 class="animate__animated animate__fadeInDown">Spring Middle School</h1>
+                                <h4 class="animate__animated animate__fadeInDown">MODEL UNITED NATIONS</h4>
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-sm-4">
@@ -107,9 +109,10 @@
                                         </div>
                                         <div class="col-sm-4">
                                             <h1 class="bi bi-people-fill" style="color: white;"></h1>
-                                            <h5 style="color: white;">Student Delegates Only</h5>
+                                            <h5 style="color: white;">School Delegates Only</h5>
                                         </div>
                                     </div>
+
                                 </div>
                                 <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Register Here!</a>
                             </div>
@@ -119,8 +122,9 @@
                     <!-- Slide 3 -->
                     <div class="carousel-item" style="background-image: url(assets/img/13.jpg);">
                         <div class="carousel-container">
-                            <div class="carousel-content">
-                                <h2 class="animate__animated animate__fadeInDown">Spring Middle School Model United</h2>
+                        <div class="carousel-content">
+                                <h1 class="animate__animated animate__fadeInDown">Spring Middle School</h1>
+                                <h4 class="animate__animated animate__fadeInDown">MODEL UNITED NATIONS</h4>
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-sm-4">
@@ -133,7 +137,7 @@
                                         </div>
                                         <div class="col-sm-4">
                                             <h1 class="bi bi-people-fill" style="color: white;"></h1>
-                                            <h5 style="color: white;">Student Delegates Only</h5>
+                                            <h5 style="color: white;">School Delegates Only</h5>
                                         </div>
                                     </div>
 
@@ -141,13 +145,15 @@
                                 <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Register Here!</a>
                             </div>
                         </div>
+                        </div>
                     </div>
 
                     <!-- Slide 4 -->
                     <div class="carousel-item" style="background-image: url(assets/img/10.jpg);">
                         <div class="carousel-container">
-                            <div class="carousel-content">
-                                <h2 class="animate__animated animate__fadeInDown">Spring Middle School Model United</h2>
+                        <div class="carousel-content">
+                                <h1 class="animate__animated animate__fadeInDown">Spring Middle School</h1>
+                                <h4 class="animate__animated animate__fadeInDown">MODEL UNITED NATIONS</h4>
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-sm-4">
@@ -160,7 +166,7 @@
                                         </div>
                                         <div class="col-sm-4">
                                             <h1 class="bi bi-people-fill" style="color: white;"></h1>
-                                            <h5 style="color: white;">Student Delegates Only</h5>
+                                            <h5 style="color: white;">School Delegates Only</h5>
                                         </div>
                                     </div>
 
@@ -229,7 +235,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="section-title">
-                            <h2>Contact Us</h2>
+                            <h2>About Us</h2>
                             <p>SSMUN is an international Model UN Conference held at the Sheraton New York Times Square Hotel. SSMUN offers a unique MUN experience with a focus on student engagement and realistic committee simulations, creating an interactive environment that encourages active participation and meaningful discussions.</p>
                         </div>
                         <div class="row">
@@ -282,6 +288,7 @@
                                 Preventive maintenance for machinery and systems.
                                 Energy efficiency assessments.</p>
                             <a href="" class="btn">Click Here</a>
+                            
                         </div>
                     </div>
                 </div>

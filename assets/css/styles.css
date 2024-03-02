@@ -384,10 +384,17 @@ h6 {
   text-align: center;
 }
 
-#hero h2 {
+#hero h1 {
+  color: #fff;
+  font-size: 100px;
+  font-weight: 700;
+}
+
+#hero h4 {
   color: #fff;
   margin-bottom: 30px;
-  font-size: 48px;
+  font-size: 40px;
+  text-align: end;
   font-weight: 700;
 }
 
@@ -1355,13 +1362,6 @@ section {
   color: #fff;
 }
 
-.background-section {
-  background-image: url('assets/img/40.jpg');
-  background-size: cover;
-  height: 350px;
-  background-position: center;
-  color: white;
-  padding: 50px;
-}
+
 
 
