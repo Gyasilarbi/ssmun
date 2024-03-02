@@ -104,7 +104,7 @@
                 <div class="row">
 
                     <div class="col-lg-3 col-md-6 footer-info">
-                        <a href="index.php"><img src="Images/logo.png" alt="" class="img-fluid"></a>
+                        <a href="index.php"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>
                     </div>
 
                     <div class="col-lg-3 col-md-6 footer-info">
@@ -152,7 +152,7 @@
 
         <div class="container">
             <div class="copyright">
-                &copy; Copyright <strong><span>TradeTrove</span></strong>. All Rights Reserved
+                &copy; Copyright <strong><span>SSMUN</span></strong>. All Rights Reserved
             </div>
             <div class="credits">
                 <!-- All the links in the footer should remain intact. -->
