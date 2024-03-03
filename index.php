@@ -271,7 +271,7 @@
                             <div class="icon"><i class="bi bi-people-fill"></i></div>
                             <h4 class="title"><a href="services/tour.php">Grade 5 - 12</a></h4>
                             <p class="description">SMMUN is tailored for School Delegations. Students are to form up a delegation and have at least 1 chaperoning faculty advisor or adult per group, this is not mandatory for schools coming from the New York City Area. SMMUN does not accept SINGLE DELEGATES. If you school does not have a Model UN club get in touch with us and we will try to help you. </p>
-                            <a href="" class="btn">Register Here</a>
+                            <a href="register.php" class="btn">Register Here</a>
                         </div>
                     </div>
 
@@ -279,15 +279,8 @@
                         <div class="icon-box">
                             <div class="icon"><i class="bi bi-wallet"></i></div>
                             <h4 class="title"><a href="">Fees & Timeline</a></h4>
-                            <p class="description">HVAC system installation, maintenance, and repair.
-                                Boiler installation and servicing.
-                                Plumbing system installations and repairs.
-                                Ventilation system design and maintenance.
-                                Refrigeration system services.
-                                Mechanical equipment troubleshooting and diagnostics.
-                                Preventive maintenance for machinery and systems.
-                                Energy efficiency assessments.</p>
-                            <a href="" class="btn">Click Here</a>
+                            <p class="description">all taxes includes. Hotel*, price intended for 1 room per night. Room configuration may vary according to your preferences, price is fixed. Available Room configuration: King Sized Bed, Double Queens (King sleeps two, Double sleeps up to 4)</p>
+                            <a href="fees.php" class="btn">Click Here</a>
 
                         </div>
                     </div>
@@ -307,7 +300,7 @@
                         <br> Which session? It’s up to you and your school calendar! Choose the one that best fits your School or MUN Club.
                     </p>
                     <p>The registration form is directed to Faculty Advisors with a valid district/school email address.</p>
-                    <p>We encourage to list two email addresses in the form, the second can be the one of the MUN Club or its Secretary General/Leader (student).</p> <a class="cta-btn" href="#">Join us!</a>
+                    <p>We encourage to list two email addresses in the form, the second can be the one of the MUN Club or its Secretary General/Leader (student).</p> <a class="cta-btn" href="register.php">Join us!</a>
                 </div>
             </div>
         </section><!-- End Cta Section -->
@@ -343,7 +336,7 @@
                             <div class="col-lg-6 info info-bg d-flex flex-column align-items-stretch">
                                 <i class="bx bx-envelope"></i>
                                 <h4>Email Us</h4>
-                                <p>info@sm-mun.org</p>
+                                <p><a href="">info@sm-mun.org</a></p>
                             </div>
                             <div class="col-lg-6 info d-flex flex-column align-items-stretch">
                                 <i class="bx bx-time-five"></i>

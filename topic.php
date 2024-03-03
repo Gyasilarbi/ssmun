@@ -75,10 +75,10 @@
 
             <nav id="navbar" class="navbar">
                 <ul>
-                    <li><a class="nav-link scrollto active" href="">Committees & Topics</a></li>
+                    <li><a class="nav-link scrollto active" href="topic.php">Committees & Topics</a></li>
                     <li><a class="nav-link scrollto" href="schedule.php">Tentative Schedule</a></li>
-                    <li><a class="nav-link scrollto" href="">Fees & Timeline</a></li>
-                    <li><a class="nav-link scrollto" href="">Register Here</a></li>
+                    <li><a class="nav-link scrollto" href="fees.php">Fees & Timeline</a></li>
+                    <li><a class="nav-link scrollto" href="register.php">Register Here</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->
@@ -140,29 +140,23 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <h1>Register now and save your seats for the conference!</h1>
-                        <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Register Here!</a>
+                        <a href="register.php" class="btn-get-started animate__animated animate__fadeInUp scrollto">Register Here!</a>
                     </div>
                 </div>
             </div>
         </section>
     </main>
 
-    <!-- ======= Footer ======= -->
-    <footer id="footer">
+       <!-- ======= Footer ======= -->
+       <footer id="footer">
         <div class="footer-top">
             <div class="container">
                 <div class="row">
 
-                    <div class="col-lg-3 col-md-6 footer-info">
-                        <a href="index.php"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 footer-info">
+                    <div class="col-lg-4 col-md-6 footer-info">
                         <p>
-                            Akroma Road <br>
-                            North Kaneshie, Accra- Ghana<br><br>
-                            <strong>Phone:</strong> +233 24 300 9448<br>
-                            <strong>Email:</strong> gyasilarbi459@gmail.com<br>
+                            Accra- Ghana<br><br>
+                            <strong>Email:</strong> <a href="">info@sm-mun.org</a><br>
                         </p>
                         <div class="social-links mt-3">
                             <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -173,7 +167,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-2 col-md-6 footer-links">
+                    <div class="col-lg-4 col-md-6 footer-links">
                         <h4>Our Services</h4>
                         <ul>
                             <li><i class="bx bx-chevron-right"></i> <a href="#">Register Here</a></li>
@@ -183,13 +177,9 @@
 
                     <div class="col-lg-4 col-md-6 footer-newsletter">
                         <h4>Stay Updated with SMMUN</h4>
-                        <p>
-                            "Step into the world of diplomacy with SMMUN! <br> 🌍 Dive into engaging debates, broaden your understanding of global issues, and foster meaningful connections.
-                            <br> 📚 Discover SMMUN: Join us in our mission to empower the next generation of global leaders through immersive Model UN experiences.
-                            <br> 🌟 Empowering Experiences: SMMUN offers tailored experiences to nurture your diplomatic skills and broaden your horizons.
-                            <br> 🤝 Collaborative Community: Connect with like-minded individuals, share insights, and work together towards innovative solutions.
-                            <br> 📣 Join the Conversation: Get involved with SMMUN today, and let's shape a brighter future together!"
-                        </p>
+                        <p>SMMUN is a conference sponsored by Centre for Educational Exchange , NGO associated
+                            with the Department of Global Communication of the United Nations and with consultative
+                            Status in ECOSOC</p>
                         <form action="" method="post">
                             <input type="email" name="email" placeholder="Your Email"><input type="submit" value="Subscribe">
                         </form>

@@ -1,11 +1,242 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title>smmun.org</title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+
+    <!-- Favicons -->
+    <link rel="icon" href="assets/img/logo.png">
+    <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+    <!-- Template Main CSS File -->
+    <link href="assets/css/styles.css" rel="stylesheet">
+
+    <style>
+        .background-section {
+            background-image: url('assets/img/fees.webp');
+            background-size: cover;
+            height: 700px;
+            background-position: center;
+            color: white;
+            padding: 50px;
+        }
+
+        table {
+            opacity: 0.8;
+            /* Adjust the opacity */
+        }
+
+        table strong {
+            color: turquoise;
+            /* Set the color to turquoise */
+        }
+    </style>
 </head>
+
 <body>
-    <h1>Not Available</h1>
+    <!-- ======= Header ======= -->
+    <header id="header" class="d-flex align-items-center animate__animated animate__fadeInDown">
+        <div class="container d-flex align-items-center justify-content-between">
+
+            <div class="logo animate__animated animate__fadeInLeft">
+                <a href="index.php"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>
+            </div>
+
+            <nav id="navbar" class="navbar animate__animated animate__fadeInRight">
+                <ul>
+                    <li><a class="nav-link scrollto animate__animated animate__fadeIn" href="topic.php">Committees & Topics</a></li>
+                    <li><a class="nav-link scrollto animate__animated animate__fadeIn" href="schedule.php">Tentative Schedule</a></li>
+                    <li><a class="nav-link scrollto animate__animated animate__fadeIn" href="fees.php">Fees & Timeline</a></li>
+                    <li><a class="nav-link scrollto animate__animated animate__fadeIn" href="register.php">Register Here</a></li>
+                </ul>
+                <i class="bi bi-list mobile-nav-toggle animate__animated animate__fadeIn"></i>
+            </nav><!-- .navbar -->
+        </div>
+    </header><!-- End Header -->
+
+    <main class="animate__animated animate__fadeIn">
+        <div class="container-fluid background-section">
+            <div class="section-title animate__animated animate__fadeIn">
+                <h1>Fees and Payment Policies</h1>
+                <hr>
+            </div>
+            <div class="container mt-3">
+                <table class="table table-hover animate__animated animate__fadeInUp">
+                    <thead>
+                        <tr>
+                            <th></th>
+                            <th><strong>PARTICIPATION FEE*</strong> <br> per student</th>
+                            <th><strong>HOTEL*</strong> <br> room/night</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>EARLY REGISTRATION</strong> <br> ends October 14</td>
+                            <td><strong>$75</strong></td>
+                            <td>$269</td>
+                        </tr>
+                        <tr>
+                            <td><strong>REGULAR REGISTRATION</strong> <br>October 15 - December 14</td>
+                            <td><strong>$90</strong></td>
+                            <td>$289</td>
+                        </tr>
+                        <tr>
+                            <td><strong>LATE REGISTRATION</strong> <br> ends January 30, 2025</td>
+                            <td><strong>$110</strong></td>
+                            <td>$310</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="section-title">
+                <a href="register.php"><button type="button" class="btn btn-info">Register!</button></a>
+            </div>
+        </div>
+
+        <section class="policies">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <p>all taxes includes.
+                            Hotel*, price intended for 1 room per night. Room configuration may vary according to your preferences, price is fixed. Available Room configuration: King Sized Bed, Double Queens (King sleeps two, Double sleeps up to 4)</p>
+                    </div>
+                    <div class="col">
+                        <h6 style="color: black;">United Nations Venue Detail</h6>
+                        <p>No part of the participation fee is in any form attributable to the access at the United Nations Headquarters.
+                            The Participation Fee covers access to all SMMUN materials and programming: committee sessions, preparation workshop and delegate materials at the Sheraton Hotel in New York.
+
+                            Access to the United Nations Headquarters and the use of its meeting rooms is free. If our request to use their meeting rooms is granted, no additional fees are required from participants. SMMUN is committed to enabling schools to participate for free to events at the United Nations – if granted – without taking part to the SMMUN conference and therefore the payment of any fees.
+
+                            Availability of the United Nations Headquarters as conference venue is not guaranteed, if granted it is subordinate to formal and informal meeting or needs of the United Nations. A reservation of UN meeting rooms, even if previously granted, can be withdrawn by the United Nations at any time.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="section-title">
+                    <h3>FREQUENTLY ASKED QUESTIONS</h3>
+                </div>
+                <div class="row g-2 policy">
+                    <div class="col-md-6">
+                        <h7 style="color: limegreen;">What is your refund policy?</h7>
+                        <p><strong>PARTICIPATION FEES:</strong> SMMUN offers full refunds for participation fees until <strong>January 31</strong>.
+                            <strong>ACCOMMODATION:</strong> Refunds must be requested before <strong>January, 31</strong>.
+                            Refunds cannot be processed after <strong>February 1, 2025</strong>
+                        </p>
+
+                        <h7 style="color: limegreen;">Are there any fees for Chaperones/Faculty Advisors?</h7>
+                        <p>No, SSMUN does not charge any participation fee for Chaperones/Faculty Advisors. The only fees are the $45/$60/$80 per student (ie: a delegation of 20 students with 2 chaperones will be billed for $900, $1200 or $1600).</p>
+
+                        <h7 style="color: limegreen;">Do You offer Financial Aid?</h7>
+                        <p>Usually, when we send you our estimate/invoice we schedule its payment in 30 days, but exceptions can ben made. Seats are not secured until payment has been completed. We do offer installment plans upon request. </p>
+
+                        <h7 style="color: limegreen;">What method of payment does SMMUN accept?</h7>
+                        <p>Our preferred method of payment is with a debit/credi card. We aslo accept check, wire transfers and ACH. </p>
+                    </div>
+                    <div class="col-md-6">
+                        <h7 style="color: limegreen;">Do I need to stay at the venue hotel to participate in SMMUN?</h7>
+                        <p>No, SMMUN does not require participants to book rooms at the venue hotel. All teams are encouraged to choose the accommodation that best fits their needs/budget.</p>
+
+                        <h7 style="color: limegreen;">*Partner Hotel Accommodation</h7>
+                        <p>Participants are able to book rooms at the Double Tree by Hilton New York Downtown New York directly through us, we will handle everything. Advisors, Parents and Students are kindly advised not contact the hotel front desk directly. They might not be able to answer your questions.
+                            Rooms can be Single or Doubles (usually for Faculty Advisors/Chaperones) and Quadruples (2 queen sized beds). Room price is always $269/$289/$310 per room per night.
+                            The standard invoice for a delegation of 16 student and 1 faculty advsiors considers 5 rooms (4 student quadruples and 1 single for the FA). Nightly prices for 5 rooms equals to $1345, $1445 or $1550. We usually consider 3 nights, but delegations are free to arrive a bit earlier and/or depart after the end of the conference.
+                            Accommodation total for 5 rooms and 3 nights equals to: $3885, $4335 or $4650 depending on the date your registration is completed.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+     <!-- ======= Footer ======= -->
+     <footer id="footer">
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-lg-4 col-md-6 footer-info">
+                        <p>
+                            Accra- Ghana<br><br>
+                            <strong>Email:</strong> info@sm-mun.org<br>
+                        </p>
+                        <div class="social-links mt-3">
+                            <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+                            <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+                            <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+                            <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+                            <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 footer-links">
+                        <h4>Our Services</h4>
+                        <ul>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Register Here</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Fees & Timeline</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 footer-newsletter">
+                        <h4>Stay Updated with SMMUN</h4>
+                        <p>SMMUN is a conference sponsored by Centre for Educational Exchange , NGO associated
+                            with the Department of Global Communication of the United Nations and with consultative
+                            Status in ECOSOC</p>
+                        <form action="" method="post">
+                            <input type="email" name="email" placeholder="Your Email"><input type="submit" value="Subscribe">
+                        </form>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="copyright">
+                &copy; Copyright <strong><span>SMMUN</span></strong>. All Rights Reserved
+            </div>
+            <div class="credits">
+                <!-- All the links in the footer should remain intact. -->
+                <!-- You can delete the links only if you purchased the pro version. -->
+                <!-- Licensing information: https://bootstrapmade.com/license/ -->
+                <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/bootstrap-3-one-page-template-free-shuffle/ -->
+                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> & <a href="">GyasiLarbi</a>
+            </div>
+        </div>
+    </footer><!-- End Footer -->
+
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+    <script src="assets/vendor/php-email-form/validate.js"></script>
+
+    <!-- Template Main JS File -->
+    <script src="assets/js/main.js"></script>
 </body>
+
 </html>
