@@ -1367,6 +1367,18 @@ section {
   font-weight: bold;
 }
 
+#mail{
+  background-color: turquoise;
+}
+
+#mail a{
+ color: white;
+}
+
+#mail a:hover{
+ color: black;
+}
+
 
 
 
