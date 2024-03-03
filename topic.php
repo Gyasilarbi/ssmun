@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>ssmun.org</title>
+    <title>smmun.org</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -35,6 +35,7 @@
             background-position: center;
             color: white;
             padding: 50px;
+            text-align: right;
         }
 
         .background-section-1 {
@@ -44,6 +45,21 @@
             background-position: center;
             color: white;
             padding: 50px;
+        }
+
+        .topic-details h3 {
+            color: #1bbca3;
+            font-size: 40px;
+        }
+
+        .topic-details p {
+            font-weight: bold;
+            font-style: italic;
+            color: grey;
+        }
+
+        .topic-details h6 {
+            color: black;
         }
     </style>
 </head>
@@ -72,16 +88,50 @@
     <main>
         <section class="background-section">
             <div class="container">
-                <h1 style="color:#000033;">Committees & Topics</h1>
-                <h6 style="color:#000033;">Here you will find committees and topics for GCMUN 2023. <br> 2024 Committees and Topics to be released soon.</h6>
+                <h1>Committees & Topics</h1>
+                <h6>Here you will find committees and topics for GCMUN 2023. <br> 2024 Committees and Topics to be released soon.</h6>
             </div>
         </section>
 
         <section>
             <div class="section-title">
                 <div class="container">
-                <p>Both Sessions of GCMUN 2024 will feature the same committees and topics. Participants will be able to download background guides here as soon as they. are released. Files are protected, your Faculty Advisor and/or MUN Club SG/Leader have the password.</p>
+                    <p>Both Sessions of GCMUN 2024 will feature the same committees and topics. Participants will be able to download background guides here as soon as they. are released. Files are protected, your Faculty Advisor and/or MUN Club SG/Leader have the password.</p>
                 </div>
+            </div>
+
+            <div class="container">
+
+                <div class="row topic-details">
+                    <h3>DISEC</h3>
+                    <h6>Disarment and International Security Committee</h6>
+                    <p>Facing the Rise of Emerging Disruptive Technologies: the Weaponization of Artificial Intelligence</p>
+                </div>
+
+                <div class="row topic-details">
+                    <h3>CSTD</h3>
+                    <h6>Commission on Science and Technology for Development</h6>
+                    <p>The Use of Gene Editing and its Potential Implications in Achieving the SDGs</p>
+                </div>
+
+                <div class="row topic-details">
+                    <h3>UNESCO</h3>
+                    <h6>United Nations Educational, Scientific and Cultural Organization</h6>
+                    <p>Threats to Freedom of Expression: Crimes Against Journalists</p>
+                </div>
+
+                <div class="row topic-details">
+                    <h3>SOCHUM</h3>
+                    <h6>Social, Cultural &amp; Humanitarian Committee</h6>
+                    <p>Ensuring a Sustainable and Equal Future to People with Disabilities</p>
+                </div>
+
+                <div class="row topic-details">
+                    <h3>UN-HABITAT</h3>
+                    <h6>A Better Urban Future</h6>
+                    <p>Transforming Cities for a Better Urban Future</p>
+                </div>
+
             </div>
         </section>
 
@@ -89,16 +139,16 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
-                    <h1>Register now and save your seats for the conference!</h1>
-                    <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Register Here!</a>
+                        <h1>Register now and save your seats for the conference!</h1>
+                        <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Register Here!</a>
                     </div>
                 </div>
             </div>
         </section>
     </main>
 
-     <!-- ======= Footer ======= -->
-     <footer id="footer">
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
         <div class="footer-top">
             <div class="container">
                 <div class="row">
@@ -132,13 +182,13 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 footer-newsletter">
-                        <h4>Stay Updated with SSMUN</h4>
+                        <h4>Stay Updated with SMMUN</h4>
                         <p>
-                            "Step into the world of diplomacy with SSMUN! <br> 🌍 Dive into engaging debates, broaden your understanding of global issues, and foster meaningful connections.
-                            <br> 📚 Discover SSMUN: Join us in our mission to empower the next generation of global leaders through immersive Model UN experiences.
-                            <br> 🌟 Empowering Experiences: SSMUN offers tailored experiences to nurture your diplomatic skills and broaden your horizons.
+                            "Step into the world of diplomacy with SMMUN! <br> 🌍 Dive into engaging debates, broaden your understanding of global issues, and foster meaningful connections.
+                            <br> 📚 Discover SMMUN: Join us in our mission to empower the next generation of global leaders through immersive Model UN experiences.
+                            <br> 🌟 Empowering Experiences: SMMUN offers tailored experiences to nurture your diplomatic skills and broaden your horizons.
                             <br> 🤝 Collaborative Community: Connect with like-minded individuals, share insights, and work together towards innovative solutions.
-                            <br> 📣 Join the Conversation: Get involved with SSMUN today, and let's shape a brighter future together!"
+                            <br> 📣 Join the Conversation: Get involved with SMMUN today, and let's shape a brighter future together!"
                         </p>
                         <form action="" method="post">
                             <input type="email" name="email" placeholder="Your Email"><input type="submit" value="Subscribe">
@@ -152,7 +202,7 @@
 
         <div class="container">
             <div class="copyright">
-                &copy; Copyright <strong><span>SSMUN</span></strong>. All Rights Reserved
+                &copy; Copyright <strong><span>SMMUN</span></strong>. All Rights Reserved
             </div>
             <div class="credits">
                 <!-- All the links in the footer should remain intact. -->

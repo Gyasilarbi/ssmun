@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>ssmun.org</title>
+    <title>smmun.org</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -66,8 +66,8 @@
                 <ul>
                     <li><a class="nav-link scrollto" href="topic.php">Committees & Topics</a></li>
                     <li><a class="nav-link scrollto active" href="schedule.php">Tentative Schedule</a></li>
-                    <li><a class="nav-link scrollto" href="">Fees & Timeline</a></li>
-                    <li><a class="nav-link scrollto" href="">Register Here</a></li>
+                    <li><a class="nav-link scrollto" href="fees.php">Fees & Timeline</a></li>
+                    <li><a class="nav-link scrollto" href="register.php">Register Here</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->
@@ -243,13 +243,13 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 footer-newsletter">
-                        <h4>Stay Updated with SSMUN</h4>
+                        <h4>Stay Updated with SMMUN</h4>
                         <p>
-                            "Step into the world of diplomacy with SSMUN! <br> 🌍 Dive into engaging debates, broaden your understanding of global issues, and foster meaningful connections.
-                            <br> 📚 Discover SSMUN: Join us in our mission to empower the next generation of global leaders through immersive Model UN experiences.
-                            <br> 🌟 Empowering Experiences: SSMUN offers tailored experiences to nurture your diplomatic skills and broaden your horizons.
+                            "Step into the world of diplomacy with SMMUN! <br> 🌍 Dive into engaging debates, broaden your understanding of global issues, and foster meaningful connections.
+                            <br> 📚 Discover SMMUN: Join us in our mission to empower the next generation of global leaders through immersive Model UN experiences.
+                            <br> 🌟 Empowering Experiences: SMMUN offers tailored experiences to nurture your diplomatic skills and broaden your horizons.
                             <br> 🤝 Collaborative Community: Connect with like-minded individuals, share insights, and work together towards innovative solutions.
-                            <br> 📣 Join the Conversation: Get involved with SSMUN today, and let's shape a brighter future together!"
+                            <br> 📣 Join the Conversation: Get involved with SMMUN today, and let's shape a brighter future together!"
                         </p>
                         <form action="" method="post">
                             <input type="email" name="email" placeholder="Your Email"><input type="submit" value="Subscribe">
@@ -263,7 +263,7 @@
 
         <div class="container">
             <div class="copyright">
-                &copy; Copyright <strong><span>SSMUN</span></strong>. All Rights Reserved
+                &copy; Copyright <strong><span>SMMUN</span></strong>. All Rights Reserved
             </div>
             <div class="credits">
                 <!-- All the links in the footer should remain intact. -->

@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title>smmun.org</title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+
+
+    <!-- Favicons -->
+    <link href="assets/img/logo.png" rel="icon">
+    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+    <!-- Template Main CSS File -->
+    <link href="assets/css/styles.css" rel="stylesheet">
+</head>
+
+<body>
+    <!-- ======= Header ======= -->
+    <header id="header" class="d-flex align-items-center">
+        <div class="container d-flex align-items-center justify-content-between">
+
+            <div class="logo">
+                <a href="index.php"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>
+            </div>
+
+            <nav id="navbar" class="navbar">
+                <ul>
+                    <li><a class="nav-link scrollto" href="topic.php">Committees & Topics</a></li>
+                    <li><a class="nav-link scrollto" href="schedule.php">Tentative Schedule</a></li>
+                    <li><a class="nav-link scrollto" href="">Fees & Timeline</a></li>
+                    <li><a class="nav-link scrollto active" href="">Register Here</a></li>
+                </ul>
+                <i class="bi bi-list mobile-nav-toggle"></i>
+            </nav><!-- .navbar -->
+        </div>
+    </header><!-- End Header -->
+
+    <main>
+        <div class="container">
+            <div class="section-title">
+                <img src="assets/img/logo.png" alt="">
+            </div>
+            <form class="row g-3">
+                <h6 style="color: black;">Member Details</h6>
+                <div class="col">
+                    <label for="inputFirstName" class="form-label">First Name</label>
+                    <input type="text" class="form-control" aria-label="First name">
+                </div>
+                <div class="col">
+                    <label for="inputMiddleName" class="form-label">Middle Name</label>
+                    <input type="text" class="form-control" placeholder="(Optional)" aria-label="Last name">
+                </div>
+                <div class="col">
+                    <label for="inputLastName" class="form-label">Last Name</label>
+                    <input type="text" class="form-control" aria-label="Last name">
+                </div>
+            </form>
+            <form class="row g-3">
+                <div class="col-md-9">
+                    <label for="inputEmail4" class="form-label">Email</label>
+                    <input type="email" class="form-control" id="inputEmail4">
+                </div>
+                <div class="col-md-3">
+                    <label for="inputGrade" class="form-label">Grade</label>
+                    <select id="inputState" class="form-select">
+                        <option selected>Grade 5</option>
+                        <option>Grade 6</option>
+                        <option>Grade 7</option>
+                        <option>Grade 8</option>
+                        <option>Grade 9</option>
+                        <option>Grade 10</option>
+                        <option>Grade 11</option>
+                        <option>Grade 12</option>
+                    </select>
+                </div>
+                <div class="col-12">
+                    <label for="inputAddress" class="form-label">Address</label>
+                    <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+                </div>
+                <div class="col-12">
+                    <label for="inputAddress2" class="form-label">Address 2</label>
+                    <input type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor">
+                </div>
+                <div class="col-md-6">
+                    <label for="inputCity" class="form-label">City</label>
+                    <input type="text" class="form-control" id="inputCity">
+                </div>
+                <div class="col-md-3">
+                    <label for="inputState" class="form-label">Country</label>
+                    <select id="inputState" class="form-select">
+                        <option selected>Ghana</option>
+                        <option>...</option>
+                    </select>
+                </div>
+                <div class="col-md-3">
+                    <label for="inputTel" class="form-label">Phone</label>
+                    <input type="tel" class="form-control" id="inputZip">
+                </div>
+
+                <h6 style="color: black;">Parent's / Guardian Details</h6>
+                <div class="col-md-4">
+                    <label for="inputFirstName" class="form-label">First Name</label>
+                    <input type="text" class="form-control" aria-label="First name">
+                </div>
+                <div class="col-md-4">
+                    <label for="inputMiddleName" class="form-label">Middle Name</label>
+                    <input type="text" class="form-control" placeholder="(Optional)" aria-label="Last name">
+                </div>
+                <div class="col-md-4">
+                    <label for="inputLastName" class="form-label">Last Name</label>
+                    <input type="text" class="form-control" aria-label="Last name">
+                </div>
+
+                <form class="row g-3">
+                    <div class="col-md-4">
+                        <label for="inputRel" class="form-label">Relationship</label>
+                        <select id="inputRel" class="form-select">
+                            <option selected>Father</option>
+                            <option>Mother</option>
+                            <option>Guardian</option>
+                        </select>
+                    </div>
+                    <div class="col-md-4">
+                        <label for="email" class="form-label">Email</label>
+                        <input type="email" class="form-control" id="email">
+                    </div>
+                    <div class="col-md-4">
+                        <label for="inputTel" class="form-label">Phone</label>
+                        <input type="tel" class="form-control" id="inputZip">
+                    </div>
+                    <div class="col-12">
+                        <p><input type="checkbox"> I, <input type="text" id="signature">, hereby consent to my ward, [Ward's Name], participating in the SMMUN conference.</p>
+                    </div>
+                    <div class="col-12">
+                        <button type="submit" class="btn btn-primary">Register</button>
+                    </div>
+                </form>
+            </form>
+
+            <div class="copyright text-center">
+                &copy; Copyright <strong><span>SMMUN</span></strong>. All Rights Reserved
+            </div>
+        </div>
+    </main>
+
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+    <script src="assets/vendor/php-email-form/validate.js"></script>
+
+    <!-- Template Main JS File -->
+    <script src="assets/js/main.js"></script>
+</body>
+
+</html>

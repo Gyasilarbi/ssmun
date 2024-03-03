@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>ssmun.org</title>
+    <title>smmun.org</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -76,17 +76,17 @@
                                             <h5 style="color: white;">March 26 - 28</h5>
                                         </div>
                                         <div class="col-sm-4">
-                                            <h1 class="bi bi-geo-alt-fill" style="color: white;"></h1>
-                                            <h5 style="color: white;">New York City</h5>
-                                        </div>
-                                        <div class="col-sm-4">
                                             <h1 class="bi bi-people-fill" style="color: white;"></h1>
                                             <h5 style="color: white;">School Delegates Only</h5>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <h1 class="bi bi-geo-alt-fill" style="color: white;"></h1>
+                                            <h5 style="color: white;">New York City</h5>
                                         </div>
                                     </div>
 
                                 </div>
-                                <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Register Here!</a>
+                                <a href="register.php" class="btn-get-started animate__animated animate__fadeInUp scrollto">Register Here!</a>
                             </div>
                         </div>
                     </div>
@@ -94,7 +94,7 @@
                     <!-- Slide 2 -->
                     <div class="carousel-item" style="background-image: url(assets/img/9.webp);">
                         <div class="carousel-container">
-                        <div class="carousel-content">
+                            <div class="carousel-content">
                                 <h1 class="animate__animated animate__fadeInDown">Spring Middle School</h1>
                                 <h4 class="animate__animated animate__fadeInDown">MODEL UNITED NATIONS</h4>
                                 <div class="container">
@@ -104,17 +104,17 @@
                                             <h5 style="color: white;">March 26 - 28</h5>
                                         </div>
                                         <div class="col-sm-4">
-                                            <h1 class="bi bi-geo-alt-fill" style="color: white;"></h1>
-                                            <h5 style="color: white;">New York City</h5>
-                                        </div>
-                                        <div class="col-sm-4">
                                             <h1 class="bi bi-people-fill" style="color: white;"></h1>
                                             <h5 style="color: white;">School Delegates Only</h5>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <h1 class="bi bi-geo-alt-fill" style="color: white;"></h1>
+                                            <h5 style="color: white;">New York City</h5>
                                         </div>
                                     </div>
 
                                 </div>
-                                <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Register Here!</a>
+                                <a href="register.php" class="btn-get-started animate__animated animate__fadeInUp scrollto">Register Here!</a>
                             </div>
                         </div>
                     </div>
@@ -122,7 +122,7 @@
                     <!-- Slide 3 -->
                     <div class="carousel-item" style="background-image: url(assets/img/13.jpg);">
                         <div class="carousel-container">
-                        <div class="carousel-content">
+                            <div class="carousel-content">
                                 <h1 class="animate__animated animate__fadeInDown">Spring Middle School</h1>
                                 <h4 class="animate__animated animate__fadeInDown">MODEL UNITED NATIONS</h4>
                                 <div class="container">
@@ -132,61 +132,61 @@
                                             <h5 style="color: white;">March 26 - 28</h5>
                                         </div>
                                         <div class="col-sm-4">
-                                            <h1 class="bi bi-geo-alt-fill" style="color: white;"></h1>
-                                            <h5 style="color: white;">New York City</h5>
-                                        </div>
-                                        <div class="col-sm-4">
                                             <h1 class="bi bi-people-fill" style="color: white;"></h1>
                                             <h5 style="color: white;">School Delegates Only</h5>
-                                        </div>
-                                    </div>
-
-                                </div>
-                                <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Register Here!</a>
-                            </div>
-                        </div>
-                        </div>
-                    </div>
-
-                    <!-- Slide 4 -->
-                    <div class="carousel-item" style="background-image: url(assets/img/10.jpg);">
-                        <div class="carousel-container">
-                        <div class="carousel-content">
-                                <h1 class="animate__animated animate__fadeInDown">Spring Middle School</h1>
-                                <h4 class="animate__animated animate__fadeInDown">MODEL UNITED NATIONS</h4>
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-sm-4">
-                                            <h1 class="bi bi-calendar3" style="color: white;"></h1>
-                                            <h5 style="color: white;">March 26 - 28</h5>
                                         </div>
                                         <div class="col-sm-4">
                                             <h1 class="bi bi-geo-alt-fill" style="color: white;"></h1>
                                             <h5 style="color: white;">New York City</h5>
                                         </div>
-                                        <div class="col-sm-4">
-                                            <h1 class="bi bi-people-fill" style="color: white;"></h1>
-                                            <h5 style="color: white;">School Delegates Only</h5>
-                                        </div>
                                     </div>
 
                                 </div>
-                                <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Register Here!</a>
+                                <a href="register.php" class="btn-get-started animate__animated animate__fadeInUp scrollto">Register Here!</a>
                             </div>
                         </div>
                     </div>
-
                 </div>
 
-                <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
-                    <span class="carousel-control-prev-icon bi bi-chevron-double-left" aria-hidden="true"></span>
-                </a>
+                <!-- Slide 4 -->
+                <div class="carousel-item" style="background-image: url(assets/img/10.jpg);">
+                    <div class="carousel-container">
+                        <div class="carousel-content">
+                            <h1 class="animate__animated animate__fadeInDown">Spring Middle School</h1>
+                            <h4 class="animate__animated animate__fadeInDown">MODEL UNITED NATIONS</h4>
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-sm-4">
+                                        <h1 class="bi bi-calendar3" style="color: white;"></h1>
+                                        <h5 style="color: white;">March 26 - 28</h5>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <h1 class="bi bi-people-fill" style="color: white;"></h1>
+                                        <h5 style="color: white;">School Delegates Only</h5>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <h1 class="bi bi-geo-alt-fill" style="color: white;"></h1>
+                                        <h5 style="color: white;">New York City</h5>
+                                    </div>
+                                </div>
 
-                <a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
-                    <span class="carousel-control-next-icon bi bi-chevron-double-right" aria-hidden="true"></span>
-                </a>
+                            </div>
+                            <a href="register.php" class="btn-get-started animate__animated animate__fadeInUp scrollto">Register Here!</a>
+                        </div>
+                    </div>
+                </div>
 
             </div>
+
+            <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon bi bi-chevron-double-left" aria-hidden="true"></span>
+            </a>
+
+            <a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
+                <span class="carousel-control-next-icon bi bi-chevron-double-right" aria-hidden="true"></span>
+            </a>
+
+        </div>
         </div>
     </section><!-- End Hero -->
 
@@ -202,8 +202,8 @@
                 <ul>
                     <li><a class="nav-link scrollto" href="topic.php">Committees & Topics</a></li>
                     <li><a class="nav-link scrollto" href="schedule.php">Tentative Schedule</a></li>
-                    <li><a class="nav-link scrollto" href="">Fees & Timeline</a></li>
-                    <li><a class="nav-link scrollto" href="">Register Here</a></li>
+                    <li><a class="nav-link scrollto" href="fees.php">Fees & Timeline</a></li>
+                    <li><a class="nav-link scrollto" href="register.php">Register Here</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->
@@ -236,13 +236,13 @@
                     <div class="col-lg-6">
                         <div class="section-title">
                             <h2>About Us</h2>
-                            <p>SSMUN is an international Model UN Conference held at the Sheraton New York Times Square Hotel. SSMUN offers a unique MUN experience with a focus on student engagement and realistic committee simulations, creating an interactive environment that encourages active participation and meaningful discussions.</p>
+                            <p>SMMUN is an international Model UN Conference held at the Double Tree by Hilton New York Downtown. SMMUN offers a unique MUN experience with a focus on student engagement and realistic committee simulations, creating an interactive environment that encourages active participation and meaningful discussions.</p>
                         </div>
                         <div class="row">
                             <div class="col-lg-4">
                                 <img src="assets/img/mission.png" width="100%">
                                 <h4 style="color: #01411C;;">Core and Mission</h4>
-                                <p>SSMUN strives to deliver the highest educational experience in a fun and stimulating environment. Participants should expect great current topics and fierce debate sessions.</p>
+                                <p>SMMUN strives to deliver the highest educational experience in a fun and stimulating environment. Participants should expect great current topics and fierce debate sessions.</p>
                             </div>
                             <div class="col-lg-4">
                                 <img src="assets/img/culture.png" width="100%">
@@ -252,7 +252,7 @@
                             <div class="col-lg-4">
                                 <img src="assets/img/talent.png" width="100%">
                                 <h4 style="color: #01411C;;">Soft Skills & Talent Accelerator</h4>
-                                <p>Public Speaking, Teamwork, Problem Solving, Time Management, Adaptability, Creativity and Leadership are just some of the skills that participants will perfect attending SSMUN: fundamental skills to tackle an ever-changing society and different work environments</p>
+                                <p>Public Speaking, Teamwork, Problem Solving, Time Management, Adaptability, Creativity and Leadership are just some of the skills that participants will perfect attending SMMUN: fundamental skills to tackle an ever-changing society and different work environments</p>
                             </div>
                         </div>
                     </div>
@@ -270,7 +270,7 @@
                         <div class="icon-box">
                             <div class="icon"><i class="bi bi-people-fill"></i></div>
                             <h4 class="title"><a href="services/tour.php">Grade 5 - 12</a></h4>
-                            <p class="description">SSMUN is tailored for School Delegations. Students are to form up a delegation and have at least 1 chaperoning faculty advisor or adult per group, this is not mandatory for schools coming from the New York City Area. SSMUN does not accept SINGLE DELEGATES. If you school does not have a Model UN club get in touch with us and we will try to help you. </p>
+                            <p class="description">SMMUN is tailored for School Delegations. Students are to form up a delegation and have at least 1 chaperoning faculty advisor or adult per group, this is not mandatory for schools coming from the New York City Area. SMMUN does not accept SINGLE DELEGATES. If you school does not have a Model UN club get in touch with us and we will try to help you. </p>
                             <a href="" class="btn">Register Here</a>
                         </div>
                     </div>
@@ -288,7 +288,7 @@
                                 Preventive maintenance for machinery and systems.
                                 Energy efficiency assessments.</p>
                             <a href="" class="btn">Click Here</a>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -300,7 +300,7 @@
         <section class="cta">
             <div class="container">
                 <div class="text-center">
-                    <h1>The 2024 Session of SSMUN</h1>
+                    <h1>The 2024 Session of SMMUN</h1>
                     <h5>GCMUN 2024 WILL BE HOLDING TWO SEPARATE CONFERENCE SESSION.</h5>
                     <h6>MARCH 26-28, 2024</h6>
                     <p>Sessions are identical, committee staff board might be subject to change between sessions. Committees and Topics will not change. Schedule might be subject to change between sessions.
@@ -318,7 +318,7 @@
             <div class="container">
                 <div class="section-title">
                     <h2>Contact Us</h2>
-                    <p>"Are you ready to turn global challenges into extraordinary solutions? The SSMUN team is here to turn that possibility into reality. Connect with us today, and let's embark on a transformative journey together. Let's transform your aspirations into impactful actions. Your remarkable solutions await!"</p>
+                    <p>"Are you ready to turn global challenges into extraordinary solutions? The SMMUN team is here to turn that possibility into reality. Connect with us today, and let's embark on a transformative journey together. Let's transform your aspirations into impactful actions. Your remarkable solutions await!"</p>
                 </div>
             </div>
 
@@ -333,22 +333,20 @@
                             <div class="col-lg-6 info d-flex flex-column align-items-stretch">
                                 <i class="bx bx-map"></i>
                                 <h4>Address</h4>
-                                <p>Akroma Road,<br>North Kaneshie, Accra - Ghana.</p>
+                                <p>Accra - Ghana.</p>
                             </div>
                             <div class="col-lg-6 info info-bg d-flex flex-column align-items-stretch">
                                 <i class="bx bx-phone"></i>
                                 <h4>Call Us</h4>
-                                <p>+233 24 300 9448<br> +233 24 457 4987</p>
+                                <p></p>
                             </div>
                             <div class="col-lg-6 info info-bg d-flex flex-column align-items-stretch">
                                 <i class="bx bx-envelope"></i>
                                 <h4>Email Us</h4>
-                                <p>contact@example.com<br>info@example.com</p>
+                                <p>info@sm-mun.org</p>
                             </div>
                             <div class="col-lg-6 info d-flex flex-column align-items-stretch">
                                 <i class="bx bx-time-five"></i>
-                                <h4>Office Hours</h4>
-                                <p>Mon - Fri: 9AM to 5PM</p>
                                 <h4>Online Hours</h4>
                                 <p>24/7</p>
                             </div>
@@ -398,16 +396,10 @@
             <div class="container">
                 <div class="row">
 
-                    <div class="col-lg-3 col-md-6 footer-info">
-                        <a href="index.php"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 footer-info">
+                    <div class="col-lg-4 col-md-6 footer-info">
                         <p>
-                            Akroma Road <br>
-                            North Kaneshie, Accra- Ghana<br><br>
-                            <strong>Phone:</strong> +233 24 300 9448<br>
-                            <strong>Email:</strong> gyasilarbi459@gmail.com<br>
+                            Accra- Ghana<br><br>
+                            <strong>Email:</strong> info@sm-mun.org<br>
                         </p>
                         <div class="social-links mt-3">
                             <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -418,7 +410,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-2 col-md-6 footer-links">
+                    <div class="col-lg-4 col-md-6 footer-links">
                         <h4>Our Services</h4>
                         <ul>
                             <li><i class="bx bx-chevron-right"></i> <a href="#">Register Here</a></li>
@@ -427,14 +419,10 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 footer-newsletter">
-                        <h4>Stay Updated with SSMUN</h4>
-                        <p>
-                            "Step into the world of diplomacy with SSMUN! <br> 🌍 Dive into engaging debates, broaden your understanding of global issues, and foster meaningful connections.
-                            <br> 📚 Discover SSMUN: Join us in our mission to empower the next generation of global leaders through immersive Model UN experiences.
-                            <br> 🌟 Empowering Experiences: SSMUN offers tailored experiences to nurture your diplomatic skills and broaden your horizons.
-                            <br> 🤝 Collaborative Community: Connect with like-minded individuals, share insights, and work together towards innovative solutions.
-                            <br> 📣 Join the Conversation: Get involved with SSMUN today, and let's shape a brighter future together!"
-                        </p>
+                        <h4>Stay Updated with SMMUN</h4>
+                        <p>SMMUN is a conference sponsored by Centre for Educational Exchange , NGO associated
+                            with the Department of Global Communication of the United Nations and with consultative
+                            Status in ECOSOC</p>
                         <form action="" method="post">
                             <input type="email" name="email" placeholder="Your Email"><input type="submit" value="Subscribe">
                         </form>
@@ -447,7 +435,7 @@
 
         <div class="container">
             <div class="copyright">
-                &copy; Copyright <strong><span>SSMUN</span></strong>. All Rights Reserved
+                &copy; Copyright <strong><span>SMMUN</span></strong>. All Rights Reserved
             </div>
             <div class="credits">
                 <!-- All the links in the footer should remain intact. -->
