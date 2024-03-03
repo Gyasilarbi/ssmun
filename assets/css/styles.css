@@ -1377,7 +1377,26 @@ section {
 
 #mail a:hover{
  color: black;
+}.section-title-footer {
+  text-align: center;
+  padding-bottom: 30px;
 }
+
+.section-title-footer h2 {
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  padding-bottom: 0;
+  color: white;
+}
+
+.section-title-footer p {
+  margin-bottom: 0;
+  color: white;
+}
+
+
 
 
 
